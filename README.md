@@ -46,7 +46,7 @@ sentiment-analysis/
 ├── requirements.txt           # Project dependencies
 ├── .env                      # Environment variables
 └── README.md                 # Project documentation
-![sentimentanalysis](https://github.com/user-attachments/assets/498147b1-f086-4e37-855b-4c52b6b55872)
+![sentimentanalysis](sentimentanalysis.png)
 
 ```
 
