@@ -131,7 +131,7 @@ plt.show()
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Authors
-- Your Name - Initial work
+- Aayush Raj Verma
 
 ## 🙏 Acknowledgments
 - Yahoo Finance for stock data
