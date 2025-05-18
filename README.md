@@ -46,9 +46,12 @@ sentiment-analysis/
 ├── requirements.txt           # Project dependencies
 ├── .env                      # Environment variables
 └── README.md                 # Project documentation
-![sentimentanalysis](main/sentimentanalysis.png)
 
 ```
+![Sentiment Analysis Preview](sentimentanalysis.png)
+<p align="center">
+  <img src="sentimentanalysis.png" alt="Sentiment Analysis Preview" width="600"/>
+</p>
 
 ## 🔧 Dependencies
 - yfinance: Stock data collection
