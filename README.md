@@ -46,7 +46,7 @@ sentiment-analysis/
 ├── requirements.txt           # Project dependencies
 ├── .env                      # Environment variables
 └── README.md                 # Project documentation
-![sentimentanalysis](sentimentanalysis.png)
+![sentimentanalysis](main/sentimentanalysis.png)
 
 ```
 
