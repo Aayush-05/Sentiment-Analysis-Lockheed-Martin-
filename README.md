@@ -48,7 +48,6 @@ sentiment-analysis/
 └── README.md                 # Project documentation
 
 ```
-![Sentiment Analysis Preview](sentimentanalysis.png)
 <p align="center">
   <img src="sentimentanalysis.png" alt="Sentiment Analysis Preview" width="600"/>
 </p>
