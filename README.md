@@ -11,6 +11,7 @@ This project implements a sophisticated sentiment analysis system that combines 
 - Automated sentiment scoring
 - Historical data analysis
 
+
 ## 📋 Prerequisites
 Before running this project, ensure you have the following:
 
